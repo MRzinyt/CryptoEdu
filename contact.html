@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Contato — CryptoEdu</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="icon" href="img/favicon.png" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="container">
+        <a class="brand" href="index.html">CryptoEdu</a>
+        <nav class="nav">
+          <a href="index.html">Home</a>
+          <a href="about.html">Sobre</a>
+          <a href="services.html">Cursos</a>
+          <a href="contact.html">Contato</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="contact">
+        <h1>Fale com a gente</h1>
+        <p>
+          Tem dúvidas ou quer se inscrever em um minicurso? Envie uma mensagem.
+        </p>
+
+        <form id="contactForm" class="form">
+          <label for="name">Nome</label>
+          <input id="name" name="name" type="text" required minlength="2" />
+          <div id="nameError" class="error">
+            Por favor, insira um nome válido (mínimo 2 caracteres)
+          </div>
+
+          <label for="email">E-mail</label>
+          <input id="email" name="email" type="email" required />
+          <div id="emailError" class="error">
+            Por favor, insira um e-mail válido
+          </div>
+
+          <label for="message">Mensagem</label>
+          <textarea
+            id="message"
+            name="message"
+            rows="5"
+            required
+            minlength="10"
+          ></textarea>
+          <div id="messageError" class="error">
+            Por favor, insira uma mensagem com pelo menos 10 caracteres
+          </div>
+
+          <button type="submit" class="btn">Enviar</button>
+        </form>
+      </section>
+    </main>
+    <div id="successMessage" class="success-message">
+      ✅ Mensagem enviada com sucesso! Obrigado pelo contato.
+    </div>
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <strong>CryptoEdu</strong>
+          <p>Aprenda cripto de forma simples e segura.</p>
+        </div>
+        <div>
+          <h5>Links</h5>
+          <a href="services.html">Cursos</a>
+          <a href="about.html">Sobre</a>
+          <a href="contact.html">Contato</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+  <script src="script.js"></script>
+</html>
