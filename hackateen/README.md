@@ -9,6 +9,7 @@
 ## 💡 Sobre o Projeto
 A **CryptoEdu** nasceu da necessidade de tornar o universo das criptomoedas acessível para iniciantes.  
 Nosso objetivo é ensinar os conceitos fundamentais de forma clara e segura, sem promessas de ganhos.
+
  E claro pelo Hackteen 2025.
 
 **Categoria:** Startup Explorer – Hackteen 2S/2025
@@ -32,6 +33,7 @@ Nosso objetivo é ensinar os conceitos fundamentais de forma clara e segura, sem
 
 
 ---
+
 
 
 
