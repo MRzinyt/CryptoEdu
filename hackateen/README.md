@@ -16,22 +16,23 @@ Nosso objetivo é ensinar os conceitos fundamentais de forma clara e segura, sem
 ---
 
 ## 👥 Equipe
-- **Itallo Mafra** — Desenvolvedor  
-- **João Victor Perreira** — Designer  
-- **João Vitor Ferreira** — Designer  
-- **Eduardo Bertoldo** — Pesquisador  
+- **Itallo Mafra** — Desenvolvedor.  
+- **João Victor Perreira** — Designer.  
+- **João Vitor Ferreira** — Designer.  
+- **Eduardo Bertoldo** — Pesquisador.  
 
 **ETEC Jacinto Ferreira De Sá**
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5** – Estrutura das páginas  
-- **CSS3** (Flexbox & Grid) – Layout responsivo e estilização  
-- **JavaScript** – Validação de formulário e interações simples
+- **HTML5** – Estrutura das páginas.  
+- **CSS3** (Flexbox & Grid) – Layout responsivo e estilização.  
+- **JavaScript** – Validação de formulário e interações simples.
 
 
 ---
+
 
 
 
